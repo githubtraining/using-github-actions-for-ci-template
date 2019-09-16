@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "target": "es5",
+    "outFile": "public/game.js",
+    "lib": ["dom", "es2015"]
+  },
+  "include": [
+    "src/**/*"
+  ]
+}

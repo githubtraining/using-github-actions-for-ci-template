@@ -1,0 +1,24 @@
+{
+  "name": "actions-template",
+  "version": "1.0.0",
+  "description": "Learn how to use GitHub Actions!",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    
+  },
+  "author": "githubtraining",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "standard": "^14.1.0"
+  },
+  "standard": {
+    "env": [
+      "jest",
+      "browser"
+    ]
+  }
+}
