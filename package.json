@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    
+    "test": "standard && jest"
   },
   "author": "githubtraining",
   "license": "MIT",
